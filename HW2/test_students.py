@@ -1,5 +1,5 @@
 import pytest
-from main import Student, GradeProcessor
+from .main import Student, GradeProcessor
 
 # Тесты для класса Student
 def test_student_creation():
