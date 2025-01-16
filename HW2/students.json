@@ -1,0 +1,80 @@
+{
+    "students": [
+        {
+            "name": "Alice",
+            "grades": [
+                85,
+                90,
+                78
+            ]
+        },
+        {
+            "name": "Bob",
+            "grades": [
+                78,
+                82,
+                88
+            ]
+        },
+        {
+            "name": "Charlie",
+            "grades": [
+                92,
+                95
+            ]
+        },
+        {
+            "name": "David",
+            "grades": [
+                70,
+                75,
+                80
+            ]
+        },
+        {
+            "name": "Eva",
+            "grades": [
+                88,
+                92,
+                85
+            ]
+        },
+        {
+            "name": "Frank",
+            "grades": [
+                90,
+                93
+            ]
+        },
+        {
+            "name": "Grace",
+            "grades": [
+                76,
+                80,
+                84
+            ]
+        },
+        {
+            "name": "Hannah",
+            "grades": [
+                95,
+                97
+            ]
+        },
+        {
+            "name": "Ian",
+            "grades": [
+                82,
+                86
+            ]
+        },
+        {
+            "name": "Jack",
+            "grades": [
+                89,
+                91,
+                94
+            ]
+        }
+    ]
+}
